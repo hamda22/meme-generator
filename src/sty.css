@@ -1,0 +1,51 @@
+.img--troll{
+    width: 5%;
+    height:50%;
+    align-self: center;
+
+}
+.img--header{
+    display: flex;
+    justify-content:space-between;
+    background-color: rgba(168, 24, 218, 1);
+    color:white;
+    height: 75px;
+}
+.meme{
+    display: flex;
+}
+.h2--header{
+    margin:auto;
+    margin-left:3px;  
+}
+.h4--header{
+    margin-right: 24px;
+    font-weight: 400;
+    align-self:center;
+}
+.fields--inputs{
+  border: 1px solid rgb(172, 170, 170);
+  margin: auto;
+  margin-top: 60px;
+  padding: 15px;
+  width: 35%;
+  border-radius:7px;
+  margin-inline: 20px;
+}
+.button--btn{
+    margin-top: 20px;
+    padding: 17px;
+    padding-left: 270px;
+    padding-right: 270px;
+    border-radius: 9px;
+    border: 1px solid rgb(172, 170, 170);
+    background-color: rgba(168, 24, 218, 1);
+    color:white;
+    font-size: large;
+    
+}
+.img--meme{
+    margin-top:40px;
+    width:500px;
+   
+}
